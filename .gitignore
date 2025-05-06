@@ -1,0 +1,17 @@
+# Fichiers et dossiers générés par Composer
+/vendor/
+/composer.lock
+
+# Cache et logs
+/var/cache/
+/var/log/
+
+# Fichiers de configuration spécifiques à l'environnement
+/.env
+/.env.local
+/.env.dev
+
+
+# Fichiers IDE
+/.idea/
+/.vscode/
